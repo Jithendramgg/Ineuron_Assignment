@@ -25,7 +25,7 @@ def q1 (a1,a2,a3):
                 if i==j==k:
                     o.append(i)
                     continue 
-    print(o)               
+    return o               
 a1 = [1,2,3,4,5]
 a2 = [1,2,5,7,9]
 a3 = [1,3,4,5,8]
@@ -97,7 +97,7 @@ def q3(a):
             i,j=0,j+1
         
         k=k+1
-    print(o)
+    return o
     
 a=[[1,2,3],[4,5,6],[7,8,9]]
 print(q3(a))
@@ -186,7 +186,7 @@ def q6(a):
         o.append(i*i)
     #print(o)
     o.sort()
-    print(o)
+    return (o)
    
 a=[4,-1,0,3,10] 
 print(q6(a))
@@ -243,10 +243,10 @@ Given the array nums consisting of 2n elements in the form [x1,x2,...,xn,y1,y2,.
 def q8(a,n):
     o=[]
     for i in range(n):
-        print(i)
+        #print(i)
         o.append(a[i])
         o.append(a[i+n])
-    print(o)
+    return(o)
 a=[2,5,1,3,4,7]
 n=3
 print(q8(a,n))
