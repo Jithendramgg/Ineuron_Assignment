@@ -1,0 +1,34 @@
+"""""""  Soft Skills Assignment 2 """""""""""""""
+Question 1: Make an exhaustive list of skills that you possess, which can be later used in resume-making.
+
+Ans:
+
+Techincal Skill:
+Python 
+SQL 
+GIT 
+Docker
+Hive
+Hbase
+Spark
+Sqoop
+
+teamwork
+Adaptability
+Problem-solving skills
+Analytical thinking
+communication skills
+
+Question 2: Make a list of the recognition that you have gained in the form of awards and achievements.
+
+Employee of Month , so ans so month and year
+
+Question 3: Make an exhaustive list of personal qualities that you consider strengths and what you have achieved using them.
+
+Strong communication skills
+Creativity and innovation
+Attention to detail:
+Analytical thinking
+Problem-solving skills
+
+Link for the video: https://drive.google.com/file/d/1lhZZDn7jI8mBm7_SxXQ3O869swR_ZoK7/view?usp=drivesdk
